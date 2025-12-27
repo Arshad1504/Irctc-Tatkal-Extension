@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      Let's build
+      Let's build it together
     </>
   )
 }
